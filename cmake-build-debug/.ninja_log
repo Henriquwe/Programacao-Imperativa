@@ -1,0 +1,24 @@
+# ninja log v5
+3	148	6836207152775615	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2.c.obj	6ffdbf78b0aededa
+2	279	6836223191073252	build.ninja	207736fc5ebfae00
+10	910	6836175383358603	CMakeFiles/Programacao_Imperativa.dir/aula1/main.cpp.obj	e7b15e0228a502e2
+149	350	6836207154795626	Programacao_Imperativa.exe	574cd29ffb8c7824
+4	138	6836211002113173	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+11	267	6836210110369309	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex2.c.obj	d476f5d8f5da21f
+2	785	6836223191073252	build.ninja	207736fc5ebfae00
+3	308	6836223195585146	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+309	632	6836223198778758	Programacao_Imperativa.exe	eb0b5df692483450
+4	184	6836262197339009	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+185	402	6836262199469002	Programacao_Imperativa.exe	eb0b5df692483450
+3	132	6836262693019345	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+133	320	6836262694849348	Programacao_Imperativa.exe	eb0b5df692483450
+3	130	6836263354898799	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+131	316	6836263356699542	Programacao_Imperativa.exe	eb0b5df692483450
+3	121	6836264225792663	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+122	309	6836264227622668	Programacao_Imperativa.exe	eb0b5df692483450
+3	128	6836264621323344	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+129	313	6836264623123355	Programacao_Imperativa.exe	eb0b5df692483450
+3	145	6836264914319757	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+145	361	6836264916379748	Programacao_Imperativa.exe	eb0b5df692483450
+3	132	6836265610336500	CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj	addf07535db94639
+132	316	6836265612136543	Programacao_Imperativa.exe	eb0b5df692483450
