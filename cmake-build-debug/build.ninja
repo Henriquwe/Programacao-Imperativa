@@ -49,12 +49,12 @@ cmake_ninja_workdir = C$:/Users/Henrique/Desktop/Programas/Programacao-Imperativ
 
 build cmake_object_order_depends_target_Programacao_Imperativa: phony || CMakeFiles/Programacao_Imperativa.dir
 
-build CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj: C_COMPILER__Programacao_Imperativa_Debug C$:/Users/Henrique/Desktop/Programas/Programacao-Imperativa/pbl2/pbl2ex1.c || cmake_object_order_depends_target_Programacao_Imperativa
-  DEP_FILE = CMakeFiles\Programacao_Imperativa.dir\pbl2\pbl2ex1.c.obj.d
+build CMakeFiles/Programacao_Imperativa.dir/pbl6/pbl6.c.obj: C_COMPILER__Programacao_Imperativa_Debug C$:/Users/Henrique/Desktop/Programas/Programacao-Imperativa/pbl6/pbl6.c || cmake_object_order_depends_target_Programacao_Imperativa
+  DEP_FILE = CMakeFiles\Programacao_Imperativa.dir\pbl6\pbl6.c.obj.d
   FLAGS = -g
   INCLUDES = -IC:/Users/Henrique/Desktop/Programas/Programacao-Imperativa/.
   OBJECT_DIR = CMakeFiles\Programacao_Imperativa.dir
-  OBJECT_FILE_DIR = CMakeFiles\Programacao_Imperativa.dir\pbl2
+  OBJECT_FILE_DIR = CMakeFiles\Programacao_Imperativa.dir\pbl6
 
 
 # =============================================================================
@@ -64,7 +64,7 @@ build CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj: C_COMPILER__Prog
 #############################################
 # Link the executable Programacao_Imperativa.exe
 
-build Programacao_Imperativa.exe: C_EXECUTABLE_LINKER__Programacao_Imperativa_Debug CMakeFiles/Programacao_Imperativa.dir/pbl2/pbl2ex1.c.obj
+build Programacao_Imperativa.exe: C_EXECUTABLE_LINKER__Programacao_Imperativa_Debug CMakeFiles/Programacao_Imperativa.dir/pbl6/pbl6.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Programacao_Imperativa.dir

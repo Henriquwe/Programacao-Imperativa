@@ -6,4 +6,4 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(Programacao_Imperativa
-        pbl2/pbl2.c)
+        pbl6/pbl6.c)

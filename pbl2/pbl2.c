@@ -62,7 +62,7 @@ int pbl2ex2(void) {
     }
 }
 
-int main(void) {
-    pbl2ex1();
-    pbl2ex2();
-}
+//int main(void) {
+   // pbl2ex1();
+   // pbl2ex2();
+//}

@@ -1,0 +1,3 @@
+C:/Users/Henrique/Desktop/Programas/Programacao-Imperativa/cmake-build-relwithdebinfo/CMakeFiles/Programacao_Imperativa.dir
+C:/Users/Henrique/Desktop/Programas/Programacao-Imperativa/cmake-build-relwithdebinfo/CMakeFiles/edit_cache.dir
+C:/Users/Henrique/Desktop/Programas/Programacao-Imperativa/cmake-build-relwithdebinfo/CMakeFiles/rebuild_cache.dir
